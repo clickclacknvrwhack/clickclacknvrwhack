@@ -4,6 +4,8 @@ I build sites primarily on WordPress using _s and bootstrap for theme developmen
 
 I'm looking to branch get into VR in 2022. 
 
+I can be reach at christian@clickfoundry.co
+
 
 <!---
 clickclacknvrwhack/clickclacknvrwhack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
