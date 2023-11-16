@@ -2,9 +2,9 @@ Hi, I'm Christian Sanchez.
 
 I build sites primarily on WordPress using _s and bootstrap for theme development.
 
-I'm looking to branch get into VR in 2022. 
+I'm always looking to branch out. 
 
-I can be reach at christian@clickfoundry.co
+You can reach me at christian@clickfoundry.co
 
 
 <!---
